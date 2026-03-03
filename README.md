@@ -120,5 +120,4 @@ Simuler une infrastructure d’entreprise avec séparation des rôles et sécuri
 # 📫 Me contacter
 📧 Email : youneshamada78@gmail.com
 🔗 LinkedIn : Hamada Younès 
-📧 Email : tonemail@email.com  
-🔗 LinkedIn : https://linkedin.com/in/tonprofil  
+
