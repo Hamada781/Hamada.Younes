@@ -17,7 +17,28 @@ Je conçois et déploie des environnements virtualisés reproduisant des archite
 - Stratégies de groupe (GPO)
 - Gestion de parc (GLPI)
 - Tests en environnement virtualisé (Hyper-V / VirtualBox)
+  
+## 🛠️ Compétences techniques
 
+### Systèmes
+- Windows Server 2019/2022
+- Ubuntu Server
+- Active Directory
+- GPO
+
+### Réseau
+- TCP/IP
+- DHCP
+- DNS
+- VLAN
+
+### Virtualisation
+- VirtualBox
+- Hyper-V
+
+### Outils
+- GLPI
+- GitHub
 🎯 Objectif : évoluer vers un poste d’Administrateur Systèmes & Réseaux.
 
 ---
