@@ -166,6 +166,16 @@ Cette expérience m’a permis de mieux comprendre les besoins d’une entrepris
 
 ---
 
+# Veille informatique
+
+Dans le cadre de ma formation BTS SIO SISR, j’ai mis en place une veille informatique afin de suivre les évolutions technologiques liées à la cybersécurité, à l’administration systèmes et réseaux ainsi qu’aux outils de supervision et de gestion de parc informatique.
+
+Malgré cela ma veille informatique est principalement réalisée à travers des vidéos YouTube, des podcasts et des contenus techniques spécialisés dans les systèmes, les réseaux et la cybersécurité.
+
+J’utilise également Feedly afin de centraliser certaines sources d’actualités informatiques et suivre les nouvelles vulnérabilités, technologies et bonnes pratiques d’administration système et réseau.
+
+https://feedly.com/i/my/me
+
 # 📫 Me contacter
 📧 Email : youneshamada78@gmail.com
 🔗 LinkedIn : Hamada Younès 
