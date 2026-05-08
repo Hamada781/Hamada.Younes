@@ -49,8 +49,7 @@ Je conçois et déploie des environnements virtualisés reproduisant des archite
 
 ## 🔐 Infrastructure Active Directory Sécurisée (Projet ADSSI)
 
-🔗 Repository :  
-👉 https://github.com/TONPSEUDO/projet-adssi
+Captures et preuves du projet disponibles directement dans ce portfolio
 
 ### 🏗️ Architecture déployée
 
@@ -71,8 +70,7 @@ Simuler une infrastructure d’entreprise avec séparation des rôles et sécuri
 
 ## 🖥️ Déploiement d’un Système de Ticketing – GLPI
 
-🔗 Repository :  
-👉 https://github.com/TONPSEUDO/projet-glpi
+Captures et preuves du projet disponibles directement dans ce portfolio
 
 ### 🔧 Réalisations
 
