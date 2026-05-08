@@ -84,8 +84,6 @@ Captures et preuves du projet disponibles directement dans ce portfolio
 
 ## 🧪 Laboratoire d’Infrastructure Virtualisée
 
-🔗 Repository :  
-👉 https://github.com/TONPSEUDO/lab-infrastructure
 
 ### Environnement
 
