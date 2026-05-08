@@ -1,4 +1,4 @@
-# 👨‍💻 Younes Hamada | Future Administrateur Systèmes & Réseaux
+# 👨‍💻 Younes Hamada | Futur Administrateur Systèmes & Réseaux
 
 🎓 BTS SIO SISR – Solutions d’Infrastructure, Systèmes et Réseaux  
 🔄 Reconversion professionnelle – Groupe GEFOR  
@@ -127,6 +127,36 @@ Simuler une infrastructure d’entreprise avec séparation des rôles et sécuri
 - Sensibilisation cybersécurité
 
 ---
+
+---
+
+## 💼 Stage professionnel – B&A Conseil
+
+Stage réalisé dans le cadre du BTS SIO option SISR.
+
+Ce stage m’a permis de découvrir le fonctionnement d’un environnement informatique professionnel ainsi que les différentes missions liées au support et à l’administration système et réseau.
+
+### Missions observées / réalisées
+
+- Support utilisateur
+- Préparation et configuration de postes informatiques
+- Découverte de l’administration réseau
+- Observation des procédures de maintenance
+- Suivi du matériel informatique
+- Découverte des outils de gestion et de support
+
+### Compétences développées
+
+- Support informatique
+- Communication professionnelle
+- Diagnostic de problèmes
+- Environnement Windows
+- Notions réseau
+- Découverte de l’administration système et réseau
+
+### Bilan
+
+Cette expérience m’a permis de mieux comprendre les besoins d’une entreprise ainsi que l’importance de la gestion des utilisateurs, du support technique et de l’organisation d’une infrastructure informatique.
 
 # 📍 Roadmap 2026
 
