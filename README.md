@@ -154,6 +154,26 @@ Ce stage m’a permis de découvrir le fonctionnement d’un environnement infor
 
 Cette expérience m’a permis de mieux comprendre les besoins d’une entreprise ainsi que l’importance de la gestion des utilisateurs, du support technique et de l’organisation d’une infrastructure informatique.
 
+# 🔐 Cybersécurité & Sensibilisation RGPD
+
+Dans le cadre de ma formation BTS SIO SISR, j’ai été sensibilisé aux enjeux liés à la cybersécurité et à la protection des données personnelles.
+
+J’ai notamment suivi plusieurs modules de formation RGPD proposés par la CNIL portant sur :
+
+les notions clés du RGPD,
+la protection des données,
+les responsabilités des acteurs,
+ainsi que le rôle du DPO et les outils de conformité.
+
+J’ai également utilisé la plateforme SecNumAcadémie de l’ANSSI afin de renforcer mes connaissances en cybersécurité et en bonnes pratiques de sécurité informatique.
+
+Ces connaissances m’ont permis de mieux comprendre :
+
+la gestion des accès,
+la protection des données,
+les permissions utilisateurs,
+ainsi que l’importance de la sécurisation des infrastructures systèmes et réseaux.
+
 # 📍 Roadmap 2026
 
 - Approfondir PowerShell
