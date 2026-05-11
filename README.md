@@ -16,7 +16,7 @@ Je conçois et déploie des environnements virtualisés reproduisant des archite
 - Gestion avancée des droits (AGDLP)
 - Stratégies de groupe (GPO)
 - Gestion de parc (GLPI)
-- Tests en environnement virtualisé (Hyper-V / VirtualBox)
+- Tests en environnement virtualisé ( VirtualBox)
   
 ## 🛠️ Compétences techniques
 
@@ -30,7 +30,6 @@ Je conçois et déploie des environnements virtualisés reproduisant des archite
 - TCP/IP
 - DHCP
 - DNS
-- VLAN
 
 ### Virtualisation
 - VirtualBox
@@ -114,7 +113,6 @@ Captures et preuves du projet disponibles directement dans ce portfolio
 ## 🔹 Réseau
 - Architecture client/serveur
 - Segmentation logique
-- Notions VLAN
 
 ## 🔹 Sécurité
 - Durcissement via GPO
